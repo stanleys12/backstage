@@ -1,5 +1,14 @@
 # @backstage/frontend-app-api
 
+## 0.16.9-next.1
+
+### Patch Changes
+
+- 0caa896: Provided an implementation of `AppLifecycleApi` and updated the app preparation and finalization process to utilize this API.
+- Updated dependencies
+  - @backstage/frontend-plugin-api@0.18.2-next.1
+  - @backstage/core-app-api@1.20.6-next.1
+
 ## 0.16.9-next.0
 
 ### Patch Changes
